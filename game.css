@@ -1,0 +1,46 @@
+body
+{
+	background-image: url('mathBg3.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(196, 63, 2);
+		color:rgb(248, 249, 252);
+		padding: 30px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 10px;
+}
+#output
+{
+background:thistle;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+color: tomato;
+}
+h1{
+	font-family: monospace;
+	color:tomato;
+
+}
